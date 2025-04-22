@@ -50,9 +50,10 @@ Setting up an API for ML model to help the organisation in deploying the solutio
 
 # 7. Budget Analysis:
 Total Budget for cloud platforms: $ 50
+
 Accumulated Cost Incurred: $ 9
 
-	The project delivers accurate output with a cost savings of $41.
+The project delivers accurate output with a cost savings of $41.
 
 # 8. Conclusion: 
 The analysis reveals that all five High Net-Worth Individual (HNI) clients currently associated with the bank are exhibiting behavioral patterns and transactional signals indicative of a heightened risk of attrition. These clients are actively engaging with competing financial institutions and demonstrating a potential disengagement with the bank’s premium offerings, suggesting a future inclination to switch their banking relationships.
