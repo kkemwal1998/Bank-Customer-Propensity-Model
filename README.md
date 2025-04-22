@@ -25,6 +25,7 @@ Geography: Pan international, covering all the branches across Europe.
 -Azure (Blob, ADF & ML flow):
 
   Blob: Azure Blob acts as a data storage solution, making it feasible for multiple applications.
+  
   ADF: ADF focuses on developing a pipeline with 30 minutes lag for the data migration between the Blob as its source and to Databricks notebook (With AI assistant) and 
   Snowflake.   
   
