@@ -21,16 +21,22 @@ Geography: Pan international, covering all the branches across Europe.
 
 # 4. Tools: The model utilizes different tools to deliver an end to end solution to the stakeholders. Their   use cases can be explained as follows:-
 -Sharepoint: Microsoft Sharepoint acts as a source for data collection from different teams.
- Azure (Blob, ADF & ML flow):
--Blob: Azure Blob acts as a data storage solution, making it feasible for multiple applications.
--ADF: ADF focuses on developing a pipeline with 30 minutes lag for the data migration between the Blob as its source and to Databricks notebook (With AI assistant) and 
- Snowflake.   
+
+-Azure (Blob, ADF & ML flow):
+
+  Blob: Azure Blob acts as a data storage solution, making it feasible for multiple applications.
+  ADF: ADF focuses on developing a pipeline with 30 minutes lag for the data migration between the Blob as its source and to Databricks notebook (With AI assistant) and 
+  Snowflake.   
+  
 -Databricks: The notebook has been utilized to extract the database from the blob with respect to SAS token, ensuring data integrity. The platform mainly focuses on 
  developing the spark job session to  conduct cleaning,  feature engineering, and ML model “Customer Propensity Analysis” development with a workload allocation across 
  different nodes, ensuring accurate computation with respect to the cloud budget. The following also uses an AI agent, ensuring correct code syntaxes. 
+ 
 -ML Flow: Azure's ML flow platform supports the registration of ML models making it feasible for the future data teams to call them as an API to perform repetitive work.
+
 -Snowflake: The Snowflake has been leveraged to integrate and store the database in its virtual data warehouse, delivering auto scaling and enabling the team members to 
- develop and caching SQL queries to conduct churn analysis. Also, allowing the team members to migrate the same to its final destination for stakeholder communication.     
+ develop and caching SQL queries to conduct churn analysis. Also, allowing the team members to migrate the same to its final destination for stakeholder communication.   
+ 
 -Power BI: The Power BI has been applied to extract cashed SQL based databases for dashboard development, enabling the stakeholders to extract key insights based on the 
  requirement definition.
 
