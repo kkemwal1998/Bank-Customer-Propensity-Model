@@ -26,7 +26,7 @@ Geography: Pan international, covering all the branches across Europe.
 
   Blob: Azure Blob acts as a data storage solution, making it feasible for multiple applications.
   
-  ADF: ADF focuses on developing a pipeline with 30 minutes lag for the data migration between the Blob as its source and to Databricks notebook (With AI assistant) and 
+  ADF: ADF focuses on developing a pipeline with 30 seconds lag for the data migration between the Blob as its source and to Databricks notebook (With AI assistant) and 
   Snowflake.   
   
 -Databricks: The notebook has been utilized to extract the database from the blob with respect to SAS token, ensuring data integrity. The platform mainly focuses on 
